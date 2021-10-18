@@ -75,12 +75,11 @@ body {
 .pricing-plan {
 	border-bottom: 1px solid #e1f1ff;
 }
-
 .pricing-plan:last-child {
 	border-bottom: none;
 }
 
-.pricing-image {
+.pricing-img {
 	margin-bottom: 25px;
 	max-width: 100%;
 }
